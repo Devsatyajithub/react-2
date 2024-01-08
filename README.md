@@ -1,1 +1,1 @@
-# React with Akhsaya.
+# React with Practice.
